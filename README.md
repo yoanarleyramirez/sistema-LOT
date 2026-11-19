@@ -58,5 +58,5 @@ char pass[] = "TU_CONTRASENA_WIFI";
 
 ## Autores
 
-* Samuel Moisés Cuello Gamarra *(agregar nombres de los demás integrantes del grupo)*
+* Samuel Moisés Cuello Gamarra, Yoan Arley Ramirez Castro
 * **Programa:** Ingeniería de Sistemas — UNAD (2026)
